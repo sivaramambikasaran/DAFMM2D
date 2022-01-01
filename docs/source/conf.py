@@ -76,7 +76,7 @@ pygments_style = None
 #
 # html_theme = 'alabaster'
 html_theme = 'sphinx_rtd_theme'
-html_logo = "images/dafmm2d.png"
+html_logo = "images/dafmm2D.png"
 # Theme options are theme-specific and customize the look and feel of a theme
 # further.  For a list of options available for each theme, see the
 # documentation.
